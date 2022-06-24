@@ -1,0 +1,68 @@
+C:\Users\QUANG\source\repos\DoAn_ver5\bin\Debug\DoAn_ver5.exe.config
+C:\Users\QUANG\source\repos\DoAn_ver5\bin\Debug\DoAn_ver5.exe
+C:\Users\QUANG\source\repos\DoAn_ver5\bin\Debug\DoAn_ver5.pdb
+C:\Users\QUANG\source\repos\DoAn_ver5\obj\Debug\DoAn_ver5.csprojAssemblyReference.cache
+C:\Users\QUANG\source\repos\DoAn_ver5\obj\Debug\DoAn_ver5.Properties.Resources.resources
+C:\Users\QUANG\source\repos\DoAn_ver5\obj\Debug\DoAn_ver5.csproj.GenerateResource.cache
+C:\Users\QUANG\source\repos\DoAn_ver5\obj\Debug\DoAn_ver5.csproj.CoreCompileInputs.cache
+C:\Users\QUANG\source\repos\DoAn_ver5\obj\Debug\DoAn_ver5.exe
+C:\Users\QUANG\source\repos\DoAn_ver5\obj\Debug\DoAn_ver5.pdb
+C:\Users\QUANG\source\repos\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.MainWorkSpace.resources
+C:\Users\QUANG\source\repos\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.PhimControl.resources
+C:\Users\QUANG\source\repos\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.Phim_ThemPhim.resources
+C:\Users\QUANG\source\repos\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.SuatChieuControl.resources
+C:\Users\QUANG\source\repos\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.SuatChieu_ThemSuatChieu.resources
+C:\Users\QUANG\source\repos\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.ThucAnControl.resources
+C:\Users\QUANG\source\repos\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.ThucAn_ThemThucAn.resources
+C:\Users\QUANG\source\repos\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.NhanVienControl.resources
+C:\Users\QUANG\source\repos\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.NhanVien_ThemNhanVien.resources
+C:\Users\QUANG\source\repos\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.KhachHangControl.resources
+C:\Users\QUANG\source\repos\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.NghiepVu.BanVeControl.resources
+C:\Users\QUANG\source\repos\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.NghiepVu.BanThucAnControl.resources
+C:\Users\QUANG\source\repos\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.DanhMuc.HoaDonControl.resources
+C:\Users\QUANG\source\repos\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.DanhMuc.VeControl.resources
+C:\Users\QUANG\source\repos\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.NghiepVu.DoanhThu_HangThangControl.resources
+C:\Users\QUANG\source\repos\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.NghiepVu.DoanhThu_KhachHangControl.resources
+C:\Users\QUANG\source\repos\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.NghiepVu.DoanhThu_KhoangThoiGianControl.resources
+C:\Users\QUANG\source\repos\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.HeThong.KetNoiCSDL.resources
+C:\Users\QUANG\source\repos\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.HeThong.TaiKhoanControl.resources
+C:\Users\QUANG\source\repos\DoAn_ver5\obj\Debug\DoAn_ver5.DangNhap.resources
+C:\Users\QUANG\source\repos\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.NghiepVu.BanVe_ChonGhe.resources
+C:\Users\QUANG\source\repos\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.NghiepVu.BanVe_LuuVeBan.resources
+C:\Users\Trong Bao\Desktop\DoAn_ver5-20210612T153440Z-001\DoAn_ver5\bin\Debug\DoAn_ver5.exe.config
+C:\Users\Trong Bao\Desktop\DoAn_ver5-20210612T153440Z-001\DoAn_ver5\bin\Debug\DoAn_ver5.exe
+C:\Users\Trong Bao\Desktop\DoAn_ver5-20210612T153440Z-001\DoAn_ver5\bin\Debug\DoAn_ver5.pdb
+C:\Users\Trong Bao\Desktop\DoAn_ver5-20210612T153440Z-001\DoAn_ver5\obj\Debug\DoAn_ver5.csprojAssemblyReference.cache
+C:\Users\Trong Bao\Desktop\DoAn_ver5-20210612T153440Z-001\DoAn_ver5\obj\Debug\DoAn_ver5.DangNhap.resources
+C:\Users\Trong Bao\Desktop\DoAn_ver5-20210612T153440Z-001\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.DanhMuc.HoaDonControl.resources
+C:\Users\Trong Bao\Desktop\DoAn_ver5-20210612T153440Z-001\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.KhachHangControl.resources
+C:\Users\Trong Bao\Desktop\DoAn_ver5-20210612T153440Z-001\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.DanhMuc.VeControl.resources
+C:\Users\Trong Bao\Desktop\DoAn_ver5-20210612T153440Z-001\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.HeThong.KetNoiCSDL.resources
+C:\Users\Trong Bao\Desktop\DoAn_ver5-20210612T153440Z-001\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.HeThong.TaiKhoanControl.resources
+C:\Users\Trong Bao\Desktop\DoAn_ver5-20210612T153440Z-001\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.MainWorkSpace.resources
+C:\Users\Trong Bao\Desktop\DoAn_ver5-20210612T153440Z-001\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.NhanVienControl.resources
+C:\Users\Trong Bao\Desktop\DoAn_ver5-20210612T153440Z-001\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.NhanVien_ThemNhanVien.resources
+C:\Users\Trong Bao\Desktop\DoAn_ver5-20210612T153440Z-001\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.PhimControl.resources
+C:\Users\Trong Bao\Desktop\DoAn_ver5-20210612T153440Z-001\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.Phim_ThemPhim.resources
+C:\Users\Trong Bao\Desktop\DoAn_ver5-20210612T153440Z-001\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.SuatChieuControl.resources
+C:\Users\Trong Bao\Desktop\DoAn_ver5-20210612T153440Z-001\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.SuatChieu_ThemSuatChieu.resources
+C:\Users\Trong Bao\Desktop\DoAn_ver5-20210612T153440Z-001\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.ThucAnControl.resources
+C:\Users\Trong Bao\Desktop\DoAn_ver5-20210612T153440Z-001\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.ThucAn_ThemThucAn.resources
+C:\Users\Trong Bao\Desktop\DoAn_ver5-20210612T153440Z-001\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.NghiepVu.BanThucAnControl.resources
+C:\Users\Trong Bao\Desktop\DoAn_ver5-20210612T153440Z-001\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.NghiepVu.BanVeControl.resources
+C:\Users\Trong Bao\Desktop\DoAn_ver5-20210612T153440Z-001\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.NghiepVu.BanVe_ChonGhe.resources
+C:\Users\Trong Bao\Desktop\DoAn_ver5-20210612T153440Z-001\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.NghiepVu.BanVe_LuuVeBan.resources
+C:\Users\Trong Bao\Desktop\DoAn_ver5-20210612T153440Z-001\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.NghiepVu.DoanhThu_HangThangControl.resources
+C:\Users\Trong Bao\Desktop\DoAn_ver5-20210612T153440Z-001\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.NghiepVu.DoanhThu_KhachHangControl.resources
+C:\Users\Trong Bao\Desktop\DoAn_ver5-20210612T153440Z-001\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.NghiepVu.DoanhThu_KhoangThoiGianControl.resources
+C:\Users\Trong Bao\Desktop\DoAn_ver5-20210612T153440Z-001\DoAn_ver5\obj\Debug\DoAn_ver5.Properties.Resources.resources
+C:\Users\Trong Bao\Desktop\DoAn_ver5-20210612T153440Z-001\DoAn_ver5\obj\Debug\DoAn_ver5.csproj.GenerateResource.cache
+C:\Users\Trong Bao\Desktop\DoAn_ver5-20210612T153440Z-001\DoAn_ver5\obj\Debug\DoAn_ver5.csproj.CoreCompileInputs.cache
+C:\Users\Trong Bao\Desktop\DoAn_ver5-20210612T153440Z-001\DoAn_ver5\obj\Debug\DoAn_ver5.exe
+C:\Users\Trong Bao\Desktop\DoAn_ver5-20210612T153440Z-001\DoAn_ver5\obj\Debug\DoAn_ver5.pdb
+C:\Users\Trong Bao\Desktop\DoAn_ver5-20210612T153440Z-001\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.DanhMuc.NhanVien_SuaNhanVien.resources
+C:\Users\Trong Bao\Desktop\DoAn_ver5-20210612T153440Z-001\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.DanhMuc.Phim_SuaPhim.resources
+C:\Users\Trong Bao\Desktop\DoAn_ver5-20210612T153440Z-001\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.DanhMuc.ThucAn_SuaThucAn.resources
+C:\Users\Trong Bao\Desktop\DoAn_ver5-20210612T153440Z-001\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.DanhMuc.KhachHang_SuaKhachHang.resources
+C:\Users\Trong Bao\Desktop\DoAn_ver5-20210612T153440Z-001\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.DanhMuc.KhachHang_ThemKhachHang.resources
+C:\Users\Trong Bao\Desktop\DoAn_ver5-20210612T153440Z-001\DoAn_ver5\obj\Debug\DoAn_ver5.GUI.DanhMuc.SuatChieu_SuaSuatChieu.resources
